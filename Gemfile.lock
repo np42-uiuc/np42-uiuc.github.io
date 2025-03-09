@@ -307,8 +307,8 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  base64
-  csv
+  base64 (~> 0.2.0)
+  csv (~> 3.3)
   github-pages
   jekyll (~> 3.9.0)
   jekyll-archives
@@ -322,4 +322,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.6.2
+   2.6.5
