@@ -14,8 +14,6 @@ gem 'jekyll-sitemap'
 gem 'jekyll-paginate-v2'
 gem 'mini_magick'
 gem "kramdown-parser-gfm"
-gem "csv"
-gem "base64"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.0"
@@ -36,6 +34,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # updates 2024
 
 gem "rexml", ">= 3.3.2"
+gem "csv"
 
 
 
