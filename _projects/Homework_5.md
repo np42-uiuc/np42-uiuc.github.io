@@ -47,5 +47,5 @@ This chart displays total sightings per year as well as total sightings by state
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/np42-uiuc/np42-uiuc.github.io/blob/2826b559ffc560867f63acae3c63e9f1fbcdd0f4/python_notebooks/Workbook.ipynb" text="The Analysis" %}
 </div>
