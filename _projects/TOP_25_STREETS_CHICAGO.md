@@ -10,6 +10,9 @@ custom_js:
   - justcharts
 ---
 
+# Top 25 Streets by Number of Crashes in Chicago from January 2024 to April 2025 broken down by Day of the Week and type of injuries
+# # Group 17: Nick Peterson
+
 # Use of the Graphs and Charts
 
 The charts and graphs on this page show what streets have the most crashes and injuries per day of the week. This is useful for figuring out when and where, season and weather independent, crashes are in Chicago, IL in 2024 and early 2025. Moreover, the map section shows the general area where crashes happen in Chicago. These data visualizations are most useful to residents of Chicago and people familiar with its geography.
