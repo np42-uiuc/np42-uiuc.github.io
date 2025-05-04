@@ -11,7 +11,7 @@ custom_js:
 ---
 
 # Top 25 Streets by Number of Crashes in Chicago from January 2024 to April 2025 broken down by Day of the Week and type of injuries
-# # Group 17: Nick Peterson
+## Group 17: Nick Peterson
 
 # Use of the Graphs and Charts
 
